@@ -62,10 +62,3 @@ logread
     -T: Calculate time spent
     -I: Shared room number
 ```
-
-## Screenshots
-#### client side:
-![Alt Text](screenshots/1.png)
-![Alt Text](screenshots/2.png)
-#### server side:
-![Alt Text](screenshots/3.png)
